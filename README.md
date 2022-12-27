@@ -1,6 +1,6 @@
 # ballasttest
 
-A new Flutter project.
+I couldn't make it within the proposed time :(
 
 ## Getting Started
 
